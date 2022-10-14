@@ -1,0 +1,15 @@
+{
+  "name": "npm-to-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leader-line": "^1.0.7",
+    "leader-line-new": "^1.1.9"
+  }
+}
