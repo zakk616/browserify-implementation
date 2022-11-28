@@ -1,4 +1,5 @@
-# Use npm package on client side
+# browserify-implementation
+# Use npm package on client side javascript
 
 `leader-line` is a javascript libraray to darw arrows between html elements, but it requires `node` to **require** and **run**.
 we want to use this in **vanilla javascript** to use it on *clients side* on browser.
