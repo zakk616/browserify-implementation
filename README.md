@@ -56,7 +56,7 @@ package-lock.json
 
 This is the file you can bring into the front-end, as you would with a usual JS library.
 
-So, remaning bundle.js to leaderline.js, you can simply add the usual line in the header of your `index.html` file:
+So, renaming bundle.js to leaderline.js, you can simply add the usual line in the header of your `index.html` file:
 
 ```html
 <script src="leaderline.js" type="module"></script>
